@@ -66,7 +66,8 @@ Code: [chapter-03-churn-prediction/03-churn.ipynb](chapter-03-churn-prediction/0
 * Cross-validating a model to make sure it behaves optimally
 * Tuning the parameters of a model to achieve the best predictive performance
 
-Code: [chapter-03-churn-prediction/04-metrics.ipynb](chapter-03-churn-prediction/04-metrics.ipynb)
+Code: [Chapter 4: Evaluation Metrics for Classification
+/04-metrics.ipynb](chapter-03-churn-prediction/04-metrics.ipynb)
 
 ## Chapter 5: Deploying Machine Learning Models
 
